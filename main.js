@@ -22,4 +22,4 @@
 //     alert(phone, text)
 // }
 
-// sms(+996500200, "Naela");
+// sms(+996999795533, "Akbar");
